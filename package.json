@@ -1,0 +1,20 @@
+{
+  "name": "monolazy",
+  "version": "0.0.0",
+  "description": "monolazy",
+  "main": "index.js",
+  "scripts": {
+    "test": "budo test.js"
+  },
+  "keywords": [],
+  "author": "Jon Gacnik <jon@folderstudio.com> (http://jongacnik.com)",
+  "license": "MIT",
+  "dependencies": {
+    "nanocomponent": "^6.5.2",
+    "on-intersect": "^2.0.0"
+  },
+  "devDependencies": {
+    "budo": "^11.2.0",
+    "choo": "^6.10.3"
+  }
+}
