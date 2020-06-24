@@ -74,5 +74,5 @@ var MonoLazy = require('monolazy')
 
 ## See Also
 
-- [jongacnik/monoimage](https://github.com/jongacnik/monoimage)
+- [monoeq/monoimage](https://github.com/monoeq/monoimage)
 - [choojs/nanocomponent](https://github.com/choojs/nanocomponent)
